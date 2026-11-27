@@ -199,7 +199,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*RimWorld · Updated 2026-11-26 · Shared under the MIT License*
+*RimWorld · Updated 2026-11-27 · Shared under the MIT License*
 
 
-Updated 2026-11-26.
+Updated 2026-11-27.
